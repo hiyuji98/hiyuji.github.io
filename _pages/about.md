@@ -39,3 +39,14 @@ Education
 - Song, Y., Bindas, T., Shen, C., **Ji, H.**, Knoben, W., et al. (2025). *High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning*. **Water Resources Research**
 
 - Abbas, A., Yang, Y., Pan, M., Tramblay, Y., Shen, C., **Ji, H.**, Gebrechorkos, S. H., Pappenberger, F., Pyo, J. C., Feng, D., Huffman, G., Nguyen, P., Massari, C., Brocca, L., Jackson, T., & Beck, H. E. (Under review). *Comprehensive global assessment of 23 gridded precipitation datasets across 16,295 catchments using hydrological modeling*. **Hydrology and Earth System Sciences**
+
+## Projects
+
+- **Towards Better Understanding of Global Low Flow Dynamics under Climate Change**  
+  *Funded by National Science Foundation (EAR-2221880)*
+
+- **SWOT and the Global Human-Hydrologic Cycle**  
+  *Funded by National Aeronautics and Space Administration (NASA), SWOT Science Team*
+
+- **Building the Next-Generation National Water Model at the National Water Center**  
+  *Funded by National Oceanic and Atmospheric Administration (NOAA)*
