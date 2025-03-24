@@ -85,7 +85,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  images/500x300.png
+teaser                   :  images/CV.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
