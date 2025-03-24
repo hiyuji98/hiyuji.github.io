@@ -38,5 +38,4 @@ Education
 
 - Song, Y., Bindas, T., Shen, C., **Ji, H.**, Knoben, W., et al. (2025). *High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning*. **Water Resources Research**
 
-- Abbas, A., Yang, Y., Pan, M., Tramblay, Y., Shen, C., **Ji, H.**, Gebrechorkos, S. H., Pappenberger, F., Pyo, J. C., Feng, D., Huffman, G., Nguyen, P., Massari, C., Brocca, L., Jackson, T., & Beck, H. E. (Under review).  
-  *Comprehensive global assessment of 23 gridded precipitation datasets across 16,295 catchments using hydrological modeling*. **Hydrology and Earth System Sciences**
+- Abbas, A., Yang, Y., Pan, M., Tramblay, Y., Shen, C., **Ji, H.**, Gebrechorkos, S. H., Pappenberger, F., Pyo, J. C., Feng, D., Huffman, G., Nguyen, P., Massari, C., Brocca, L., Jackson, T., & Beck, H. E. (Under review). *Comprehensive global assessment of 23 gridded precipitation datasets across 16,295 catchments using hydrological modeling*. **Hydrology and Earth System Sciences**
