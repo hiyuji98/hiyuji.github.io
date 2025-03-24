@@ -25,3 +25,6 @@ Education
 - **B.S. in Hohai University**  
   Hohai University, China  
   *2016 – 2020*
+
+## Publications
+**Ji, H.**, Peng, D., Fan, C., Zhao, K., Gu, Y., & Liang, Y. (Year). *Assessing effects of non-point source pollution emission control schemes on Beijing's sub-center with a water environment model*. **Journal Name**, *Volume*(Issue), pages. https://doi.org/xxx
