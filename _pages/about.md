@@ -18,10 +18,10 @@ Education
   Penn State University, USA  
   *2023 – Present*
 
-- **M.S. in [Your Master's Major]**  
-  [Your Master's University], [Country]  
-  *[Start Year] – [End Year]*
+- **M.S. in Hydrology and Water Resources Engineering**  
+  Beijing Normal University, China  
+  *2020 – 2023*
 
-- **B.S. in [Your Bachelor's Major]**  
-  [Your Bachelor's University], [Country]  
-  *[Start Year] – [End Year]*
+- **B.S. in Hohai University**  
+  Hohai University, China  
+  *2016 – 2020*
