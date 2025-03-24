@@ -1,5 +1,4 @@
 
 About me
 ======
-I am the second year PhD students in the department of Civil and Environmental Engineering from Penn State. my advosior is Chaopeng Shen and my research topic is global-scale hydrological simulation using differentiable models.
-
+I am a second-year Ph.D. student in the Department of Civil and Environmental Engineering at Penn State, advised by Dr. Chaopeng Shen. My research focuses on global-scale hydrological simulation using differentiable models, which includes the rainfall-runoff process and channel routing. 
