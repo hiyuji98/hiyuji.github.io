@@ -43,7 +43,7 @@ Education
 ## Projects
 
 - **Towards Better Understanding of Global Low Flow Dynamics under Climate Change**  
-  *Funded by National Science Foundation (EAR-2221880)*
+  *Funded by National Science Foundation*
 
 - **SWOT and the Global Human-Hydrologic Cycle**  
   *Funded by National Aeronautics and Space Administration (NASA), SWOT Science Team*
