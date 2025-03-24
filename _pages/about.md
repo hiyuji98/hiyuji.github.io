@@ -46,3 +46,15 @@ Xu, S., Wang, Q., Yu, J., Zhao, G., **Ji, H.**, Yue, Q., Zheng, Y., Xu, H., Li, 
 Song, Y., Bindas, T., Shen, C., **Ji, H.**, Knoben, W. J. M., Lonzarich, L., Clark, M. P., Liu, J., van Werkhoven, K., Lemont, S., Denno, M., Pan, M., Yang, Y., Rapp, J., Kumar, M., Rahmani, F., Thébault, C., Sawadekar, K., & Lawson, K. (Year).  
 *High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning*.  
 **Water Resources Research**
+
+## Publications
+
+- **Ji, H.**, Peng, D., Fan, C., Zhao, K., Gu, Y., & Liang, Y. (Year). *Assessing effects of non-point source pollution emission control schemes on Beijing’s sub-center with a water environment model*. **Urban Climate**
+
+- **Ji, H.**, Peng, D., Gu, Y., Liang, Y., & Luo, X. (Year). *Evaluation of multiple satellite precipitation products and their potential utilities in the Yarlung Zangbo River Basin*. **Scientific Reports**
+
+- **Ji, H.**, Peng, D., Gu, Y., Luo, X., Pang, B., & Zhu, Z. (Year). *Snowmelt runoff in the Yarlung Zangbo River Basin and runoff change in the future*. **Remote Sensing**
+
+- Xu, S., Wang, Q., Yu, J., Zhao, G., **Ji, H.**, Yue, Q., et al. (Year). *The impact of the spatiotemporal structure of rainfall on flood response over a piedmont urban basin*. **Journal of Hydrology**
+
+- Song, Y., Bindas, T., Shen, C., **Ji, H.**, Knoben, W., et al. (Year). *High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning*. **Water Resources Research**
