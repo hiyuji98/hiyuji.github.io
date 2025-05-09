@@ -42,8 +42,6 @@ Education
 
 - Abbas, A., Yang, Y., Pan, M., Tramblay, Y., Shen, C., **Ji, H.**, Gebrechorkos, S. H., Pappenberger, F., Pyo, J. C., Feng, D., Huffman, G., Nguyen, P., Massari, C., Brocca, L., Jackson, T., & Beck, H. E. (Under review). *Comprehensive global assessment of 23 gridded precipitation datasets across 16,295 catchments using hydrological modeling*. **Hydrology and Earth System Sciences**
 
-
-
 - Rahmani, F., Appling, A., Wada, Y., Song, Y., **Ji, H.**, Liu, J., Lawson, K.. (under review). *Substantially larger and more amplified U.S. groundwater recharge projected by multi-objective big-data-trained models*.
 
 ## Projects
